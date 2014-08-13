@@ -41,13 +41,13 @@
 		<!-- END posts -->
 	</ul>
 
-	<small class="nodebb-copyright">Powered by <a href="http://nodebb.org" target="_blank">NodeBB</a> &bull; <a href="{relative_path}/topic/{tid}">View original thread</a></small>
+	<small class="nodebb-copyright">Powered by <a href="http://35hz.co.uk" target="_blank">35hz</a> &bull; <a href="{relative_path}/topic/{tid}">View original topic</a></small>
 	<button class="btn btn-primary" <!-- IF !posts.length -->style="display: none"<!-- ENDIF !posts.length --> id="nodebb-load-more">Load more comments...</button>
 <!-- ELSE -->
-	Commenting has been disabled.
+	Commenting is currently not available.
 	<!-- IF isAdmin -->
 	<form action="{relative_path}/comments/publish" method="post">
-		<button class="btn btn-primary">Publish this article to NodeBB</button>
+		<button class="btn btn-primary">Publish this article to 35hz</button>
 		<input type="hidden" name="markdown" id="nodebb-content-markdown" />
 		<input type="hidden" name="title" id="nodebb-content-title" />
 		<input type="hidden" name="tags" id="nodebb-content-tags" />

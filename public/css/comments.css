@@ -6,8 +6,9 @@
 }
 
 #nodebb {
-	margin-top: 50px;
 	min-height: 300px;
+    margin: auto;
+    max-width: 50%;
 }
 #nodebb .well {
     min-height: 20px;
@@ -82,11 +83,11 @@
 #nodebb > ul {
     margin-bottom: 0px;
     list-style-type: none;
-    padding: 0px;
+    padding-top: 10px;
 }
 
 #nodebb > ul > li {
-    border-left: 2px solid #333;
+    border-left: 2px solid #006CFF;
     background-color: #FFF;
     box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
     padding-bottom: 0px;
@@ -158,10 +159,10 @@
 }
 
 #nodebb .btn.btn-primary {
-    background: none repeat scroll 0% 0% #38C071;
+    background: none repeat scroll 0% 0% #006CFF;
     color: #FFF;
     border-radius: 3px;
-    border: 1px solid #38C071;
+    border: 1px solid #006CFF;
     float: right;
 }
 
@@ -183,7 +184,7 @@
 
 #nodebb .nodebb-copyright a {
 	text-decoration: none;
-	color: #38C071;
+	color: #006CFF;
 }
 
 #nodebb .emoji {
