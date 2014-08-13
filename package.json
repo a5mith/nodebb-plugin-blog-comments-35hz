@@ -1,32 +1,29 @@
 {
-  "name": "nodebb-plugin-blog-comments",
+  "name": "nodebb-plugin-blog-comments-35hz",
   "version": "0.1.10",
-  "description": "NodeBB Blog Comments (Ghost / WP Commenting Engine)",
+  "description": "35hz Blog Comments (Ghost / WP Commenting Engine)",
   "main": "library.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-plugin-blog-comments"
+    "url": "https://github.com/a5mith/nodebb-plugin-blog-comments-35hz"
   },
   "keywords": [
-    "nodebb",
-    "plugin",
-    "mousetrap",
-    "keyboard",
-    "shortcuts"
+    "35hz",
+    "plugin"
   ],
   "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
+    "name": "a5mith",
+    "email": "35hzcommunity@gmail.com"
   },
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-blog-comments/issues"
+    "url": "https://github.com/a5mith/nodebb-plugin-blog-comments-35hz/issues"
   },
   "readme": "",
   "readmeFilename": "README.md",
-  "_id": "nodebb-plugin-blog-comments@0.0.1",
-  "_from": "nodebb-plugin-blog-comments@~0.0.1"
+  "_id": "nodebb-plugin-blog-comments-35hz@0.0.1",
+  "_from": "nodebb-plugin-blog-comments-35hz@~0.0.1"
 }
