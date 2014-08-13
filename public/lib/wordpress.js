@@ -3,7 +3,7 @@
 	
 	var articlePath = window.location.protocol + '//' + window.location.host + window.location.pathname;
 
-	var pluginURL = nodeBBURL + '/plugins/nodebb-plugin-blog-comments',
+	var pluginURL = nodeBBURL + '/plugins/nodebb-plugin-blog-comments-35hz',
 		savedText, nodebbDiv, contentDiv, commentsDiv, commentsCounter;
 
 	var stylesheet = document.createElement("link");
