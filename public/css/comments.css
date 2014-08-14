@@ -10,6 +10,9 @@
     margin: auto;
     max-width: 80%;
 }
+a.plugin-mentions-a {
+    color: #006cff;
+}
 #nodebb .well {
     min-height: 20px;
     padding: 24px;
