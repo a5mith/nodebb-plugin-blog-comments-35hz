@@ -8,7 +8,7 @@
 #nodebb {
 	min-height: 300px;
     margin: auto;
-    max-width: 50%;
+    max-width: 80%;
 }
 #nodebb .well {
     min-height: 20px;
@@ -67,10 +67,12 @@
 
 #nodebb .topic-text p {
 	margin: 10px;
+    font-size:14px;
 }
 
 #nodebb .topic-text small {
 	color: #888;
+    font-size:15px;
 }
 
 #nodebb .profile-image {
